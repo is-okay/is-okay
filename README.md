@@ -1,4 +1,4 @@
-
+![image_alt](0313b17e38357086cf613581b9835c83.gif)
 
 <!--
 **is-okay/is-okay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
